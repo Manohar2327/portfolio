@@ -474,9 +474,9 @@ nav ul li a
 	width:45%;
 	animation:js 2s;
 }
-.React
+.UIUX
 {
-	width:20%;
+	width:70%;
 	animation:React 2s;
 }
 
@@ -516,7 +516,7 @@ nav ul li a
 		
 	}
 }
-@keyframes React
+@keyframes UIUX
 {
 	0%
 	{
